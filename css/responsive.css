@@ -1,0 +1,211 @@
+@media(max-width:575.98px){
+    .menu-bg{
+        background-color: #FFFEFE;
+    }
+    .menu-bg img{
+        width: 50%;
+    }
+    /* .menu-bg i{
+        color: rgb(200, 33, 33);
+    } */
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+    #menupart ul li a {
+        margin-right: 0;
+    }
+      .menu_btn {
+        text-align: center;
+      }   
+      
+      .menu-bg .menu_btn a{
+       margin: 20px auto;
+        display: inline-block;
+      }
+      
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+
+    .banner_img img{
+        width: 100%;
+        padding-top: 20px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .menu-bg{
+        background-color: #FFFEFE;
+    }
+    .menu-bg img{
+        width: 60%;
+    }
+   
+
+    .menu-bg .menu_btn a{
+        margin: 20px auto;
+        display: inline-block;
+     }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+    
+    #menupart ul li a {
+        margin-right: 0;
+    } 
+      
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+    
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+    .menu-bg{
+        background-color: #FFFEFE;
+    }
+    .menu-bg img{
+        width: 70%;
+    }
+    /* .menu-bg i{
+        color: rgb(200, 33, 33);
+    } */
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+      
+    #menupart ul li a {
+        margin-right: 0;
+    }
+      .menu_btn {
+        text-align: center;
+      }   
+      
+      .menu-bg .menu_btn a{
+       margin: 20px auto;
+        display: inline-block;
+      }
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+      
+}
+
+@media(min-width:992px) and (max-width:1199.98px){
+
+    .menu-bg{
+        background-color: #FFFEFE;
+    }
+    .menu-bg img{
+        width: 85%;
+    }
+    /* .menu-bg i{
+        color: rgb(200, 33, 33);
+    } */
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+}
+
+@media(min-width:1200px) and (max-width:1399.98px){
+    .menu-bg{
+        background-color: #FFFEFE;
+    }
+    .menu-bg img{
+        width: 100%;
+    }
+    /* .menu-bg i{
+        color: rgb(200, 33, 33);
+    } */
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+      /* #banner .carousel-item {
+        height: 270px;
+      } */
+      /* .menu-bg .menu_btn a{
+        marin-bottom: 50px;
+      }
+       */
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+}
